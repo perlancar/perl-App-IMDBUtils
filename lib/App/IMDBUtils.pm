@@ -8,7 +8,7 @@ package App::IMDBUtils;
 use 5.010001;
 use strict;
 use warnings;
-#use Log::Any '$log';
+use Log::ger;
 
 our %SPEC;
 
